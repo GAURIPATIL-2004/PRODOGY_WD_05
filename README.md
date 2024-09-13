@@ -33,11 +33,11 @@ This project is a **Weather Update Web Application** that provides real-time wea
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/GAURIPATIL-2004/Task5.git
+   git clone https://github.com/GAURIPATIL-2004/PRODOGY_WD_05/Task5.git
    ```
 2. **Navigate into the project directory**:
    ```bash
-   cd weather-update-app
+   cd PRODOGY_WD_05/Task5
    ```
 3. **Open `index.html` in your browser**:
    You can simply open the `index.html` file in any web browser to view the application.
